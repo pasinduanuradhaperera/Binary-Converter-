@@ -1,0 +1,18 @@
+.container{
+    width:400px;
+    height:300px;
+    border: solid 1px black;
+    margin:auto;
+}
+h1{
+    text-align:center;
+}
+.labe {
+    padding: 0px 15px 0px 40px;
+}
+input{
+    margin:10px;
+}
+.convert{
+    margin:0px 10px 10px 10px ;
+}
